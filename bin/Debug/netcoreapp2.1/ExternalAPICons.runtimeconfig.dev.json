@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ravik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ravik\\.nuget\\packages"
+    ]
+  }
+}
